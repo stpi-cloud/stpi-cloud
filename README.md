@@ -7,7 +7,7 @@ STPi is an AI job-search and placement system for recruiters, career coaches and
 - **Live:** [https://stpi.whop.site](https://stpi.whop.site)
 - **Facts:** [https://stpi-store.pages.dev/facts.json](https://stpi-store.pages.dev/facts.json)
 - **Every question answered:** [https://stpi-store.pages.dev/answers/](https://stpi-store.pages.dev/answers/)
-- **Built by:** Jacaranda Labs, Harare, Zimbabwe — [jacaranda-estate.pages.dev](https://jacaranda-estate.pages.dev/)
+- **Built by:** Coldcode SI Labs, Harare, Zimbabwe — [coldcode-estate.pages.dev](https://coldcode-estate.pages.dev/)
 
 ## What it costs
 
